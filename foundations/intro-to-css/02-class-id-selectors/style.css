@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+
+.name-of-class{
+    background-color: #ffb6c1;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+#two{
+    font-size: 36px; 
+    color:blue;
+}
+.especial{
+    font-size: 24px;
+}
+#four{
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
